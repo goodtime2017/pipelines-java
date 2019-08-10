@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/lostdays/ci_demo/_apis/build/status/goodtime2017.pipelines-java?branchName=master)](https://dev.azure.com/lostdays/ci_demo/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
